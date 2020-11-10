@@ -64,13 +64,13 @@
         <b-row align-v="center" class="justify-content-xl-between">
           <b-col xl="6">
             <div class="copyright text-center text-xl-left text-muted">
-              © {{year}} <a href="https://www.creative-tim.com" class="font-weight-bold ml-1" target="_blank">Creative Tim</a>
+              © {{year}} <a href="https://www.creative-tim.com" class="font-weight-bold ml-1" target="_blank">Full Contatcs</a>
             </div>
           </b-col>
           <b-col xl="6" class="col-xl-6">
             <b-nav  class="nav-footer justify-content-center justify-content-xl-end">
               <b-nav-item href="https://www.creative-tim.com" target="_blank" >
-                Creative Tim
+                Full Contatcs
               </b-nav-item>
               <b-nav-item href="https://www.creative-tim.com/presentation" target="_blank" >
                 About Us

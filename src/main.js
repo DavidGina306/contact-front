@@ -5,7 +5,7 @@
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard
-* Copyright 2020 Creative Tim (https://www.creative-tim.com)
+* Copyright 2020 Full Contatcs (https://www.creative-tim.com)
 
 * Coded by www.creative-tim.com
 
@@ -21,10 +21,16 @@ import axios from 'axios'
 import VueAxios from 'vue-axios'
 // router setup
 import router from './routes/router';
-// plugin setup
+import VueMask from 'v-mask';
+import VueTheMask from 'vue-the-mask';
+import { VueMaskDirective } from 'v-mask'
+Vue.use(VueTheMask)
+    // plugin setup
 Vue.use(DashboardPlugin);
-Vue.use(VueAxios, axios)
-    /* eslint-disable no-new */
+Vue.use(VueAxios, axios);
+Vue.use(VueMask);
+Vue.directive('mask', VueMaskDirective);
+/* eslint-disable no-new */
 new Vue({
     el: '#app',
     render: h => h(App),
