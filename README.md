@@ -1,4 +1,4 @@
-<h1 align="center">Bem vindo a CONTACT FULL 👋</h1>
+<h1 align="center">Bem vindo a CONTACT FULL FRONT - VUE 👋</h1>
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/npm-%3E%3D5.5.0-blue.svg" />
