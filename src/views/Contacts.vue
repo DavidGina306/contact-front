@@ -319,7 +319,7 @@ export default {
     },
     update() {
       this.axios
-        .put("/contact" + this.contato.id, this.contato)
+        .put("/contact/" + this.contato.id, this.contato)
         .then((res) => {
           this.$notify({
             type: "success",
