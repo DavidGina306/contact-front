@@ -13,11 +13,30 @@
 
 ## CONTACT FULL
 
-O sitema de genrenciamento de contatos:
+O sitema de genrenciamento de contatos desenvolvido com VUE JS:
  <b>Atividades<b>
 - Adcionar Contato.
 - Alterar Contato.
 - Remover Contato.
 - Filtrar Contato
-## API
   
+## Configuração do projeto
+Clone o projeto e logo após execute o comando abaixo para instalar as dependencias do projeto.
+```
+npm install
+```
+
+### Executar o projeto em modo de desenvolvimento
+```
+npm run serve
+```
+
+### Alterando o HOST
+No arquivo `env.json` altere a variável HOST_API no arquivo.
+{
+  "HOST_API": "http://localhost:9090"
+}
+
+```
+## API do projeto  https://github.com/DavidGina306/contacts
+```
