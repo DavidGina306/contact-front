@@ -36,6 +36,7 @@
     "vue-chartjs": "^3.5.0",
     "vue-clipboard2": "^0.3.0",
     "vue-flatpickr-component": "^8.1.2",
+    "vue-izitoast": "^1.2.1",
     "vue-router": "^3.0.6",
     "vue-the-mask": "^0.11.1",
     "vue2-transitions": "^0.2.3"
@@ -60,6 +61,6 @@
     "last 2 versions",
     "not ie <= 10"
   ],
-  "author": "Full Contatcs - https://www.creative-tim.com/",
+  "author": "Full Contacts",
   "description": "BootstrapVue Argon Dashboard"
 }

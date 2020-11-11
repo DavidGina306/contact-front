@@ -7,7 +7,7 @@
 -->
 
 <!--
-Love Full Contatcs? Do you need Angular, React, Vuejs or HTML? You can visit:
+Love Full Contacts? Do you need Angular, React, Vuejs or HTML? You can visit:
 👉  https://www.creative-tim.com/bundles
 👉  https://www.creative-tim.com
 -->

@@ -10,7 +10,7 @@ export default new Router({
     {
       path: '/',
       name: 'home',
-      redirect: '/dashboard',
+      redirect: '/contatcts',
       component: DashboardLayout,
       children: [
         {
